@@ -1,200 +1,198 @@
 cv:
-  name: Dr. Arnab Mapui
-  label: Postdoctoral Fellow
-  email: mukhosant.apm@iitbhu.ac.in
-  location: Kanpur, India
+  name: "Dr. Arnab Mapui"
+  label: "Postdoctoral Fellow"
+  email: "mukhosant.apm@iitbhu.ac.in"
+  location: "Kanpur, India"
   image: ""
-  summary: A mathematician working in nonlinear dynamical systems, Lyapunov stability, impulsive control, sliding mode control, and event-triggered control.
+  summary: "A mathematician working in nonlinear dynamical systems, Lyapunov stability, impulsive control, sliding mode control, and event-triggered control."
 
   social_networks:
-    - network: Google Scholar
+    - network: "Google Scholar"
       username: ""
 
   address:
     street: ""
-    city: Kanpur
-    region: Uttar Pradesh
+    city: "Kanpur"
+    region: "Uttar Pradesh"
     postalCode: ""
-    countryCode: IN
+    countryCode: "IN"
 
   sections:
 
     Education:
-      - institution: Indian Institute of Technology (BHU), Varanasi
-        location: Varanasi, India
-        area: Mathematics
-        studyType: Ph.D.
+      - institution: "Indian Institute of Technology (BHU), Varanasi"
+        location: "Varanasi, India"
+        area: "Mathematics"
+        studyType: "Ph.D."
         start_date: 2021
         end_date: 2025
         score: ""
         courses: ""
-        highlights:
-          - ""
+        highlights: []
 
-      - institution: Visva-Bharati University
-        location: Santiniketan, India
-        area: Mathematics
-        studyType: M.Sc.
+      - institution: "Visva-Bharati University"
+        location: "Santiniketan, India"
+        area: "Mathematics"
+        studyType: "M.Sc."
         start_date: 2017
         end_date: 2019
         score: "CGPA: 8.78/10"
         courses: ""
-        highlights:
-          - ""
+        highlights: []
 
-      - institution: Burdwan University
-        location: Burdwan, India
-        area: Mathematics
-        studyType: B.Sc.
+      - institution: "Burdwan University"
+        location: "Burdwan, India"
+        area: "Mathematics"
+        studyType: "B.Sc."
         start_date: 2014
         end_date: 2017
         score: "Percentage: 69.38%"
         courses: ""
-        highlights:
-          - ""
+        highlights: []
 
     Experience:
-      - company: Indian Institute of Technology Kanpur
-        position: Postdoctoral Fellow
-        location: Kanpur, India
-        start_date: 2026-04
-        end_date: Present
-        summary: Postdoctoral research in nonlinear dynamical systems, stability, and control.
+      - company: "Indian Institute of Technology Kanpur"
+        position: "Postdoctoral Fellow"
+        location: "Kanpur, India"
+        start_date: "2026-04"
+        end_date: "Present"
+        summary: "Postdoctoral research in nonlinear dynamical systems, stability, and control."
         highlights:
-          - Nonlinear Dynamical Systems
-          - Lyapunov Stability
-          - Impulsive Control
-          - Sliding Mode Control
-          - Event-Triggered Control
+          - "Nonlinear Dynamical Systems"
+          - "Lyapunov Stability"
+          - "Impulsive Control"
+          - "Sliding Mode Control"
+          - "Event-Triggered Control"
 
     Volunteer: []
 
     Awards:
-      - title: NET JRF
+      - title: "NET JRF"
         authors: []
         date: 2019
         awarder: ""
         url: ""
-        summary: Qualified NET JRF with All India Rank 93.
+        summary: "Qualified NET JRF with All India Rank 93."
 
-      - title: GATE
+      - title: "GATE"
         authors: []
         date: 2020
         awarder: ""
         url: ""
-        summary: Qualified GATE with All India Rank 190.
+        summary: "Qualified GATE with All India Rank 190."
 
     Publications:
-      - title: Practical prescribed/prescribed time stabilization via event-triggered impulsive control with actuation delays
+
+      - title: "Practical prescribed/prescribed time stabilization via event-triggered impulsive control with actuation delays"
         authors:
-          - Arnab Mapui
-          - Santwana Mukhopadhyay
-        publisher: Systems & Control Letters
+          - "Arnab Mapui"
+          - "Santwana Mukhopadhyay"
+        publisher: "Systems & Control Letters"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: Lyapunov-like prescribed-time stability of impulsive systems via event & self-triggered impulsive control
+      - title: "Lyapunov-like prescribed-time stability of impulsive systems via event & self-triggered impulsive control"
         authors:
-          - Arnab Mapui
-          - Santwana Mukhopadhyay
-        publisher: Nonlinear Analysis: Hybrid Systems
+          - "Arnab Mapui"
+          - "Santwana Mukhopadhyay"
+        publisher: "Nonlinear Analysis: Hybrid Systems"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: Lyapunov-like conditions for prescribed-time stability of perturbed impulsive systems
+      - title: "Lyapunov-like conditions for prescribed-time stability of perturbed impulsive systems"
         authors:
-          - Arnab Mapui
-          - Santwana Mukhopadhyay
-        publisher: Applied Mathematics and Computation
+          - "Arnab Mapui"
+          - "Santwana Mukhopadhyay"
+        publisher: "Applied Mathematics and Computation"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: Prescribed-time stabilisation of nonlinear time-varying systems exhibiting impulsive behaviour
+      - title: "Prescribed-time stabilisation of nonlinear time-varying systems exhibiting impulsive behaviour"
         authors:
-          - Arnab Mapui
-          - Santwana Mukhopadhyay
-        publisher: International Journal of Control
+          - "Arnab Mapui"
+          - "Santwana Mukhopadhyay"
+        publisher: "International Journal of Control"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: On optimal upper bound for the settling time of fixed-time stable systems and its application in secure communication
+      - title: "On optimal upper bound for the settling time of fixed-time stable systems and its application in secure communication"
         authors:
-          - Arnab Mapui
-          - Md Arzoo Jamal
-          - Santwana Mukhopadhyay
-        publisher: Nonlinear Dynamics
+          - "Arnab Mapui"
+          - "Md Arzoo Jamal"
+          - "Santwana Mukhopadhyay"
+        publisher: "Nonlinear Dynamics"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: Fixed/predefined-time stability and designing of terminal sliding mode control of impulsive dynamical systems
+      - title: "Fixed/predefined-time stability and designing of terminal sliding mode control of impulsive dynamical systems"
         authors:
-          - Arnab Mapui
-          - Md Arzoo Jamal
-          - Santwana Mukhopadhyay
-        publisher: International Journal of Systems Science
+          - "Arnab Mapui"
+          - "Md Arzoo Jamal"
+          - "Santwana Mukhopadhyay"
+        publisher: "International Journal of Systems Science"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: Predefined-time stability and its applications using non-singular sliding mode control
+      - title: "Predefined-time stability and its applications using non-singular sliding mode control"
         authors:
-          - Arnab Mapui
-          - Md Arzoo Jamal
-          - Santwana Mukhopadhyay
-        publisher: Communications in Nonlinear Science and Numerical Simulation
+          - "Arnab Mapui"
+          - "Md Arzoo Jamal"
+          - "Santwana Mukhopadhyay"
+        publisher: "Communications in Nonlinear Science and Numerical Simulation"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: Further results on fixed-time synchronization of the memristor neural networks with impulsive effects
+      - title: "Further results on fixed-time synchronization of the memristor neural networks with impulsive effects"
         authors:
-          - Md Arzoo Jamal
-          - Arnab Mapui
-          - Subir Das
-          - Santwana Mukhopadhyay
-        publisher: Communications in Nonlinear Science and Numerical Simulation
+          - "Md Arzoo Jamal"
+          - "Arnab Mapui"
+          - "Subir Das"
+          - "Santwana Mukhopadhyay"
+        publisher: "Communications in Nonlinear Science and Numerical Simulation"
         releaseDate: ""
         url: ""
         summary: ""
 
-      - title: On Optimal Fixed Time Stability: Its Application in Secure Communication Using Sliding Mode Control
+      - title: "On Optimal Fixed Time Stability: Its Application in Secure Communication Using Sliding Mode Control"
         authors:
-          - Rajesh Kushwah
-          - Arnab Mapui
-          - Santwana Mukhopadhyay
-        publisher: European Journal of Control
+          - "Rajesh Kushwah"
+          - "Arnab Mapui"
+          - "Santwana Mukhopadhyay"
+        publisher: "European Journal of Control"
         releaseDate: ""
         url: ""
         summary: ""
 
     Skills:
-      - name: Technical Skills
-        level: Advanced
-        icon: fa-solid fa-code
+      - name: "Technical Skills"
+        level: "Advanced"
+        icon: "fa-solid fa-code"
         keywords: "LyX, LaTeX, MATLAB, C/C++, Fortran"
 
     Languages:
-      - name: Bengali
+      - name: "Bengali"
         summary: "Native speaker"
 
-      - name: English
+      - name: "English"
         summary: "C2"
 
-      - name: Hindi
+      - name: "Hindi"
         summary: "C2"
 
     Interests:
-      - name: Nonlinear Dynamical Systems
-        icon: fa-solid fa-chart-line
+      - name: "Nonlinear Dynamical Systems"
+        icon: "fa-solid fa-chart-line"
         keywords: "Lyapunov Stability, Impulsive Control, Sliding Mode Control, Event-Triggered Control"
 
-      - name: Sports
-        icon: fa-solid fa-futbol
+      - name: "Sports"
+        icon: "fa-solid fa-futbol"
         keywords: "Sports (playing and following)"
 
     Certificates: []
@@ -202,10 +200,11 @@ cv:
     Projects: []
 
     References:
-      - name: Prof. Santwana Mukhopadhyay
-        icon: fa-solid fa-user
+      - name: "Prof. Santwana Mukhopadhyay"
+        icon: "fa-solid fa-user"
         reference: "Ph.D. Supervisor. Email: mukhosant.apm@iitbhu.ac.in"
 
-      - name: Dr. Shyam Kamal
-        icon: fa-solid fa-user
+      - name: "Dr. Shyam Kamal"
+        icon: "fa-solid fa-user"
         reference: "Email: shyamkamal.eee@iitbhu.ac.in"
+```
