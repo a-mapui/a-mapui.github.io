@@ -14,7 +14,7 @@ profile:
     <p>Kanpur, India</p>
     <p><a href="mailto:mapuiarnab@gmail.com">mapuiarnab@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -30,12 +30,11 @@ latest_posts:
 
 I am a Post Doctoral Fellow at the [SDFCL Lab](https://www.iitk.ac.in/) at the Indian Institute of Technology Kanpur. My research is centered on **control theory and nonlinear dynamical systems**, with a particular focus on:
 
-- **Fixed-time and Predefined-time Stability Analysis**
+- **Advanced Notions of Stability**
 - **Impulsive Dynamical Systems Control**
 - **Sliding Mode Control Strategies**
 - **Event-triggered Impulsive Control**
-- **Applications to Secure Communication**
-- **Neural Networks Synchronization**
+- **Attitude Control**
 
 I am passionate about developing innovative control methodologies for complex nonlinear systems and their practical applications. Through rigorous theoretical analysis and computational techniques, I aim to solve challenging problems in control systems and dynamical analysis. I actively contribute to the scientific community through peer-reviewed publications and collaborative interdisciplinary research.
 
