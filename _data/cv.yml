@@ -123,16 +123,33 @@ cv:
         journal: "European Journal of Control"
 
     Skills:
-      - "LyX, LaTeX, MATLAB, C/C++, Fortran"
+      - name: "Technical Skills"
+        keywords:
+          - "LyX"
+          - "LaTeX"
+          - "MATLAB"
+          - "C/C++"
+          - "Fortran"
 
     Languages:
-      - "Bengali — Native speaker"
-      - "English — C2"
-      - "Hindi — C2"
+      - name: "Bengali"
+        summary: "Native speaker"
+      - name: "English"
+        summary: "C2"
+      - name: "Hindi"
+        summary: "C2"
 
     Interests:
-      - "Nonlinear Dynamical Systems — Lyapunov Stability, Impulsive Control, Impulsive Systems, Sliding Mode Control, Event-Triggered Control"
-      - "Sports — Playing and following sports"
+      - name: "Nonlinear Dynamical Systems"
+        keywords:
+          - "Lyapunov Stability"
+          - "Impulsive Control"
+          - "Impulsive Systems"
+          - "Sliding Mode Control"
+          - "Event-Triggered Control"
+      - name: "Sports"
+        keywords:
+          - "Playing and following sports"
 
     References:
       - name: "Prof. Santwana Mukhopadhyay"
