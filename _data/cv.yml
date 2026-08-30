@@ -122,18 +122,17 @@ cv:
           - "Santwana Mukhopadhyay"
         journal: "European Journal of Control"
 
-  
     Skills:
-      - bullet: "LyX, LaTeX, MATLAB, C/C++, Fortran"
+      - "LyX, LaTeX, MATLAB, C/C++, Fortran"
 
     Languages:
-      - bullet: "Bengali — Native speaker"
-      - bullet: "English — C2"
-      - bullet: "Hindi — C2"
+      - "Bengali — Native speaker"
+      - "English — C2"
+      - "Hindi — C2"
 
     Interests:
-      - bullet: "Nonlinear Dynamical Systems — Lyapunov Stability, Impulsive Control, Impulsive Systems, Sliding Mode Control, Event-Triggered Control"
-      - bullet: "Sports — Playing and following sports"
+      - "Nonlinear Dynamical Systems — Lyapunov Stability, Impulsive Control, Impulsive Systems, Sliding Mode Control, Event-Triggered Control"
+      - "Sports — Playing and following sports"
 
     References:
       - name: "Prof. Santwana Mukhopadhyay"
