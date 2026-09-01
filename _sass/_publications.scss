@@ -7,4 +7,24 @@
       padding-left: 0.5rem;
     }
   }
+
+  /* Space between publications */
+  .publication-entry {
+    margin-bottom: 2.5rem;
+  }
+
+  /* Remove extra space after the final publication */
+  .publication-entry:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Your name */
+  .author strong {
+    font-weight: 700;
+  }
+
+  /* Journal name */
+  .periodical em {
+    font-style: italic;
+  }
 }
