@@ -231,6 +231,9 @@ kramdown:
 include: ["_pages"]
 exclude:
   - AGENTS.md
+  - .agents/
+  - .claude/
+  - .codex/
   - al-folio-upgrade-report.md
   - bin/
   - CLAUDE.md
