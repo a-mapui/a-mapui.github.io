@@ -1,0 +1,24 @@
+/* ==========================================================================
+   Publication list styling
+   ========================================================================== */
+
+/* Space between individual publications */
+.bibliography li {
+  margin-bottom: 2.2rem;
+  line-height: 1.6;
+}
+
+/* Remove extra spacing after the last publication */
+.bibliography li:last-child {
+  margin-bottom: 0;
+}
+
+/* Bold my name */
+.bibliography .author strong {
+  font-weight: 700;
+}
+
+/* Italic journal names */
+.bibliography .journal {
+  font-style: italic;
+}
