@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Post Doc Fellow at SDFCL Lab, IIT Kanpur
 
