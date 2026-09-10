@@ -6,7 +6,7 @@ subtitle: Post Doc Fellow at SDFCL Lab, IIT Kanpur
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>SDFCL Lab</strong></p>
